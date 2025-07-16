@@ -56,20 +56,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/cuongwfxzje" target="blank">
+  <a href="https://www.facebook.com/cuongwfxzje" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="masonnguyen1243-facebook" />
   </a>
-  <a href="https://www.youtube.com/@cuongwfzxje1243" target="blank">
+  <a href="https://www.youtube.com/@cuongwfzxje1243" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="masonnguyen1243-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-b%C3%A1-7a54a4373/" target="blank">
+  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-b%C3%A1-7a54a4373/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="masonnguyen1243-linkedin" />
   </a>
   <a href="mailto:masonnguyen1243@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungqmasonnguyen1243uandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="masonnguyen1243-email" />
   </a>
-   <a href="https://github.com/masonnguyen1243" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="trungqmasonnguyen1243-github" />
+   <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" alt="trungqmasonnguyen1243-instagram" />
   </a>
 </div>
 <br>
