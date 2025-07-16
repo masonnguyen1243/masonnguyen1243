@@ -74,7 +74,7 @@
 </div>
 <br>
 
-<h2 align="center">Random Quotes</h2>
+<h2 align="center">🧾 Random Quotes 🧾</h2>
 <br>
 
 <div align="center">
