@@ -74,6 +74,9 @@
 </div>
 <br>
 
+<h2 align="center">Random Quotes</h2>
+<br>
+
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry.%20Each%20line%2C%20a%20thought%20made%20visible.)](https://github.com/piyushsuthar/github-readme-quotes)
