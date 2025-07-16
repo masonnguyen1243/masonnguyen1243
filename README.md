@@ -76,6 +76,6 @@
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming%20is%20not%20just%20about%20writing%20code%20that%20works%3B%20it%E2%80%99s%20about%20building%20something%20that%20lasts%2C%20that%20others%20can%20understand%2C%20maintain%2C%20and%20evolve.%20It%27s%20the%20quiet%20craftsmanship%20behind%20the%20scenes%E2%80%94balancing%20logic%2C%20empathy%2C%20and%20creativity%E2%80%94that%20transforms%20a%20simple%20algorithm%20into%20something%20truly%20meaningful.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry.%20Each%20line%2C%20a%20thought%20made%20visible.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
