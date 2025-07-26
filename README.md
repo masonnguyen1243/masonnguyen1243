@@ -19,7 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="ExpressJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=FFFFFF" alt="Nest.js logo" title="NestJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=ea285f" alt="Nest.js logo" title="NestJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
